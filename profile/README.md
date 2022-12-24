@@ -11,7 +11,7 @@ iOS 개발을 입문하시는 분들, Swift 문법을 배워보고 싶은 분들
 
 <img src="https://user-images.githubusercontent.com/105399791/209415618-80dce1b5-be85-4d8f-bbf3-aa9136db573f.png" width="150">|<img src="https://user-images.githubusercontent.com/105399791/209415619-25cce512-164d-450a-9471-35f2338f7d4a.png" width="150">|<img src="https://user-images.githubusercontent.com/105399791/209415620-cd4d5574-a01b-4e0d-8e9c-fa9c7edcda8e.png" width="150">
 |:---:|:---:|:---:|
-|[Swift Coding Club 1st]()|[Swift Coding Club 2nd]()|[Swift Coding Club 3th]()|
+|[Swift Coding Club 1st]()|[Swift Coding Club 2nd]()|[Swift Coding Club 3rd]()|
 
 <h2>많은 분들이 함께하고 있어요!</h2>
 <h3>운영진</h3>
