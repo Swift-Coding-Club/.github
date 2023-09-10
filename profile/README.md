@@ -7,20 +7,33 @@
 iOS 개발을 입문하시는 분들, Swift 문법을 배워보고 싶은 분들, 프로젝트가 하고 싶은 분들 등 많은 분들이 모여
 네트워킹하며 함께 공부하고 있어요!
 
-<h2>지금까지 이런 걸 했어요!</h2>
+**개발자, 개발이 궁금한 사람들이 모여있는 스위프트 코딩클럽!<br>
+언제든지 놀러오세요!**
 
-<img src="https://user-images.githubusercontent.com/105399791/209415618-80dce1b5-be85-4d8f-bbf3-aa9136db573f.png" width="150">|<img src="https://user-images.githubusercontent.com/105399791/209415619-25cce512-164d-450a-9471-35f2338f7d4a.png" width="150">|<img src="https://user-images.githubusercontent.com/105399791/209416711-c999989a-2cb3-407f-a37d-ffb5c3fe88e4.png" width="150">
-|:---:|:---:|:---:|
-|[Swift Coding Club 1st](https://github.com/Swift-Coding-Club/.github/tree/main/profile)|[Swift Coding Club 2nd](https://github.com/Swift-Coding-Club/.github/tree/main/profile)|[Swift Coding Club 3rd](https://github.com/Swift-Coding-Club/.github/tree/main/profile)|
+<h2>무얼 하나요?</h2>
+<h3>온/오프라인 모각코</h3>
+온라인이든 오프라인이든 원하는 곳에서 각자 모여서 이야기하고 질문한답니다!<br>
 
-<h2>많은 분들이 함께하고 있어요!</h2>
-<h3>운영진</h3>
+**새벽, 오전, 오후 가리지 않고 언제든 오셔서 소통하세요!**
 
-| <img src="https://avatars.githubusercontent.com/u/12761948?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/73650994?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/74695165?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/75601594?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/109560875?v=4" width="100"> |
-| :---: | :---: | :---: | :---: | :---: |
-| [리이오](https://github.com/M1zz) | [리아](https://github.com/Lia316) | [코다](https://github.com/dacodaco) | [로이](https://github.com/Roy-wonji) | [햄식](https://github.com/SukHyeon) |
-| <img src="https://avatars.githubusercontent.com/u/66416524?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/105399791?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/66006225?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/74223206?v=4" width="100"> |
-| [영](https://github.com/Dtzer0) | [드루](https://github.com/drew105) | [수빈](https://github.com/realhsb) | [양파](https://github.com/yangpa043) |
+<img width="500" alt="디스코드 음성대화 캡쳐" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/d60b69ee-2268-48d4-a8d1-4cdd44d7a388">
+<img width="405" alt="디스코드 음성대화 캡쳐" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/fb2c52d1-dc34-4d00-829d-f8349468b679">
+
+<h3>팀 빌딩, 그룹 스터디</h3>
+<img width="500" alt="image" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/a2690313-7601-4ef2-9edb-fb7b3540410b">
+<img width="438" alt="image" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/29c21273-cf11-43e6-b263-54e84bc6f326">
+
+**어디서 팀을 구해야할지 모르겠다면 여기서 구해보세요! <br> 팀을 만들어도 되고, 기존의 팀에 참여하셔도 됩니다!**
+
+
+<h3>질문게시판</h3>
+
+자유롭게 소통할 수 있는 **질문게시판!**
+
+여러분들의 질문이 하나의 게시글이 되어서 다른 사람들과 소통하고 언제든 누구든 공부할 수 있는 자료가 됩니다!
+
+<img width="1116" alt="image" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/7bbe934c-e990-44d4-8c6d-b52e48b6a80c">
+
 
 <h2>함께 하고 싶다면?</h2>
 
