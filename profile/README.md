@@ -37,5 +37,6 @@ iOS 개발을 입문하시는 분들, Swift 문법을 배워보고 싶은 분들
 
 <h2>함께 하고 싶다면?</h2>
 
+⭐️ [DISCORD](https://discord.gg/dBxj2mdJvc)<br>
 📱 [Swift Coding Club Instagram 바로가기](https://www.instagram.com/swift_coding_club_kr/)<br>
 📧 [leeo@kakao.com](mailto:leeo@kakao.com)
