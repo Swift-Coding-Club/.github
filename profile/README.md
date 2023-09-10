@@ -17,11 +17,11 @@ iOS 개발을 입문하시는 분들, Swift 문법을 배워보고 싶은 분들
 **새벽, 오전, 오후 가리지 않고 언제든 오셔서 소통하세요!**
 
 <img width="500" alt="디스코드 음성대화 캡쳐" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/d60b69ee-2268-48d4-a8d1-4cdd44d7a388">
-<img width="405" alt="디스코드 음성대화 캡쳐" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/fb2c52d1-dc34-4d00-829d-f8349468b679">
+<img width="500" alt="디스코드 음성대화 캡쳐" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/fb2c52d1-dc34-4d00-829d-f8349468b679">
 
 <h3>팀 빌딩, 그룹 스터디</h3>
 <img width="500" alt="image" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/a2690313-7601-4ef2-9edb-fb7b3540410b">
-<img width="438" alt="image" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/29c21273-cf11-43e6-b263-54e84bc6f326">
+<img width="500" alt="image" src="https://github.com/Swift-Coding-Club/.github/assets/109560875/29c21273-cf11-43e6-b263-54e84bc6f326">
 
 **어디서 팀을 구해야할지 모르겠다면 여기서 구해보세요! <br> 팀을 만들어도 되고, 기존의 팀에 참여하셔도 됩니다!**
 
